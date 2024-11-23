@@ -8,3 +8,7 @@ Seems like some workflow of exposing each program to accept command line args ma
 Then we can make it just take what we have on clipboard as input, somehow.
 
 NOTE: I think we're not supposed to share inputs on github
+
+Wooo solved Day 7 and 8 part 2, August 19 2024.
+
+NOTE (November 23 2024) we should hide the inputs before pushing.

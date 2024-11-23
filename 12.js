@@ -84,6 +84,7 @@ function partOne() {
       //   newState = state.slice(0, j + 2) + val + state.slice(j + 3);
     }
     state = newState;
+    console.log(state.slice(numGens * 2, state.length - numGens * 2));
   }
 
   let count = 0;
